@@ -346,6 +346,10 @@
             .memory-item .memory-content {
                 margin: 0 auto;
             }
+                
+            .memory-item .memory-content p{
+                padding: 2px;
+            }
 
             .timeline::before {
                 display: none; /* Adjust the central line for smaller screens */
