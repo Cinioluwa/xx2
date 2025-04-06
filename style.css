@@ -337,10 +337,10 @@
                 padding: 1rem; /* Add padding for better spacing */
             }
             .memory-item.left{
-                left: -5%;
+                left: -3%;
             }
             .memory-item.right{
-                left: 5%;
+                left: 3%;
             }
 
             .memory-item .memory-content {
@@ -576,4 +576,7 @@
             .carousel-item {
                 padding: 10px;
             }
+        }
+        .dear .nickname{
+            font-family: Arial, Helvetica, sans-serif;
         }
