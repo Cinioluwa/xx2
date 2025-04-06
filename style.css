@@ -32,7 +32,7 @@
             align-items: center;
             justify-content: center;
             text-align: center;
-            background: url('images/1.jpg') no-repeat center center/cover; /* Set the background image */
+            background: url('images/26.jpg') no-repeat center center/cover; /* Set the background image */
             position: relative;
             overflow: hidden;
             color: white; /* Ensure text is readable on the image */
@@ -59,7 +59,7 @@
             font-size: 2rem;
             margin-bottom: 1rem;
             font-weight: 300;
-            color: #95837d;
+            color: #e9dcd8;
         }
 
         .nickname-container {
