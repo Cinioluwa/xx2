@@ -345,10 +345,7 @@
 
             .memory-item .memory-content {
                 margin: 0 auto;
-            }
-                
-            .memory-item .memory-content p{
-                padding: 2px;
+                padding: 1 rem;
             }
 
             .timeline::before {
